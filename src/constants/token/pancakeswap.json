@@ -1114,6 +1114,22 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x42f6f551ae042cbe50c739158b4f0cac0edb9096.png"
+    },
+    {
+      "name": "Gambiarra Finance",
+      "symbol": "GAMB",
+      "address": "0x0d878571dad5979218654bc05c0b920269c7113f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://gambiarra.finance/logo512.png"
+    }
+    {
+      "name": "Viralata Finance",
+      "symbol": "REAU",
+      "address": "0x4c79b8c9cB0BD62B047880603a9DEcf36dE28344",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://gambiarra.finance/logo512.png"
     }
   ]
 }
